@@ -2,10 +2,11 @@
 Eu sou Rafael e comecei a programar recentemente, não tenho uma bagagem muita grande nessa area, mas sou dedicado e busco aprender de forma mais eficiente possivel. Estou micrando da area de sáude e espero que possa complementar e ajudar nessa nova viagem.
 
 ## Trabalhando atualmente.
-- Prefeitura de macaé como Tecnico de saúde.
+- Prefeitura de macaé na função de Técnico de saúde.
 
 <div>
-## 🖥 Minhas experiencias atualmente.
+  
+## 🖥 Minhas experiências atualmente.
 
 <p align="left">
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;">
@@ -19,6 +20,8 @@ Eu sou Rafael e comecei a programar recentemente, não tenho uma bagagem muita g
 - Wordpress
 - Python
 - Typescript
+- MySQL
+- PHP
 
 <div>
   <p align="center">
