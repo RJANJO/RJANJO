@@ -1,5 +1,5 @@
 ## Olá pessoas desconhecidas 🙋‍♂️
-Eu sou Rafael e comecei a programar recentemente, não tenho uma bagagem muita grande nessa area, mas sou dedicado e busco aprender de forma mais eficiente possivel. Estou micrando da area de sáude e espero que possa complementar e ajudar nessa nova viagem.
+Eu sou Rafael e comecei a programar recentemente, não tenho uma bagagem muita grande nessa área, mas sou dedicado e busco aprender de forma mais eficiente possivel. Estou micrando da área de sáude e espero que possa complementar e ajudar nessa nova viagem.
 
 ## Trabalhando atualmente.
 - Prefeitura de macaé na função de Técnico de saúde.
